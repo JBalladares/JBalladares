@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JBalladares
+- 👋 Hello!
 - 👀 I’m interested in ARKit, Swift and SwiftUI
 - 💻 I'm currently working on personal project
 - 🌱 I’m currently learning Swift
