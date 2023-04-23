@@ -1,8 +1,7 @@
-- 👋 Hello!
-- 👀 I’m interested in ARKit, Swift and SwiftUI
-- 💻 I'm currently working on personal project
-- 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on augemented reality and Swift Apps
+- 👋 Hey!
+- 👀 I’m interested in Swift
+- 💻 I'm currently working on personal projects
+- 🌱 I’m currently learning Swift and software development
 
 <!---
 JBalladares/JBalladares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
