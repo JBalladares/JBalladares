@@ -1,7 +1,8 @@
 - 👋 Hey!
 - 👀 I’m interested in Swift
-- 💻 I'm currently working on personal projects
 - 🌱 I’m currently learning Swift and software development
+- 💻 I'm currently working on personal projects to gain more experience and build more skills
+
 
 <!---
 JBalladares/JBalladares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
