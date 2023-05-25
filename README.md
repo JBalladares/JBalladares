@@ -1,5 +1,5 @@
 - 👋 Hey!
-- 👀 I’m interested in Swift
+- 👀 I’m interested in learning more!
 - 🌱 I’m currently learning Swift and software development
 - 💻 I'm currently working on personal projects to gain more experience and build more skills
 
