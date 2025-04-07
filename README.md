@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hey what's up!
+Hello!
 
 Currently expanding my expertise in Swift and have a strong foundation in Python and SQL.
 
@@ -16,10 +16,12 @@ Actively learning about machine learning to integrate advanced functionalities i
 
 ## Skills
 
-- **Languages**: Swift, Python, SQL
-- **Frameworks**: VisionOS, iOS
-- **Tools**: Xcode, VSCode, Git, GitHub
-- **Current Learning**: Machine Learning
+- **Languages**: Swift, Python, SQL  
+- **Frameworks & Libraries**: CreateML, Core ML, TensorFlow, pandas, NumPy, Matplotlib  
+- **Platforms**: visionOS, iOS
+- **Tools**: Xcode, VSCode, PyCharm, Jupyter Notebook  
+- **Machine Learning Skills**: Model training & evaluation, dataset labeling, image classification, data preprocessing, model integration into iOS apps  
+- **Current Learning**: Deep learning with TensorFlow, model deployment strategies
 
 <!---
 JBalladares/JBalladares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
