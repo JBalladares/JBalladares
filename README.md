@@ -10,7 +10,7 @@ Hello!
 
 Currently expanding my expertise in Swift and have a strong foundation in Python and SQL.
 
-My experience includes developing various applications, with one available on the App Store for VisionOS. I thoroughly enjoy creating apps using SwiftUI and am dedicated to enhancing user experiences through innovative solutions.
+My experience includes developing various applications, with one available on the App Store for Apple Vision Pro. I thoroughly enjoy creating apps using SwiftUI and am dedicated to enhancing user experiences through innovative solutions.
 
 Actively learning about machine learning to integrate advanced functionalities into my applications.
 
